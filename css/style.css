@@ -57,5 +57,7 @@ body {
   footer p{
 	padding-bottom:10px;
 	padding-right:10px;
+	padding-left:0px;
+	padding-top:0px;
 	text-align: center;
   }
